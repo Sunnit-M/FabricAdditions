@@ -2,6 +2,7 @@ package net.sunnit.fabricaddition;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.sunnit.fabricaddition.block.ModBlocks;
 import net.sunnit.fabricaddition.item.ModItemGroups;
 import net.sunnit.fabricaddition.item.ModItems;
 import org.slf4j.Logger;
@@ -16,5 +17,6 @@ public class FabricAdditions implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

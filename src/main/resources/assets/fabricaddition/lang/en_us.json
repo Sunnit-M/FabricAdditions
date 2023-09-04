@@ -1,7 +1,10 @@
 {
-  "item.fabricaddition.coin": "Coin",
+  "item.fabricaddition.coin": "Wealth",
   "item.fabricaddition.ruby": "Ruby",
   "item.fabricaddition.raw_ruby": "Raw Ruby",
+  "item.fabricaddition.compact_coin": "Compact Wealth",
+
+  "block.fabricaddition.wealth_block": "Block Of Vast Wealth And Riches",
 
   "itemgroup.fabricadd": "Fabric Additions"
 }
