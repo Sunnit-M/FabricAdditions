@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fabricaddition:block/ruby_block"
+  }
+}
