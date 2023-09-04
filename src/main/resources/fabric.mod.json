@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "fabric-addition",
+	"id": "fabricaddition",
 	"version": "${version}",
 	"name": "Fabric Addition",
 	"description": "This is an mod intended to add additions to minecraft through fabric",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/fabric-additions/icon.png",
+	"icon": "assets/fabricaddition/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
